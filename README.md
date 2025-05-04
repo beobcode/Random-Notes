@@ -15,7 +15,7 @@ Random Pulic notes
 - [forgejo](https://codeberg.org/forgejo/forgejo)
 
 ## Javascript/TypeScript list
-[Awesome Tiny JS](https://github.com/thoughtspile/awesome-tiny-js): A list of javascript libaries that are tiny
+- [Awesome Tiny JS](https://github.com/thoughtspile/awesome-tiny-js): A list of javascript libaries that are tiny
 
 ## List of privacy focused tools
 - https://awesome-privacy.xyz/
