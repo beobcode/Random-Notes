@@ -1,8 +1,8 @@
 # Random-Notes
-Random Pulic notes
+Random Public notes
 
 
-## Selfhosted metaSearch engins
+## Self-hosted metaSearch engines
 - [4get](https://git.lolcat.ca/lolcat/4get)
     - Example [https://4get.plunked.party/]
 
@@ -11,14 +11,14 @@ Random Pulic notes
 ## Git alternative
 - https://codeberg.org/
 
-### Selfhosted
+### Self-hosted
 - [forgejo](https://codeberg.org/forgejo/forgejo)
 
-## Javascript/TypeScript list
+## JavaScript/TypeScript list
 - [Awesome Tiny JS](https://github.com/thoughtspile/awesome-tiny-js): A list of javascript libaries that are tiny
 
-## List of privacy focused tools
+## List of privacy-focused tools
 - https://awesome-privacy.xyz/
 
-## Selfhosted Mail server
+## Self-hosted Mail server
 - https://docker-mailserver.github.io/docker-mailserver/latest/
