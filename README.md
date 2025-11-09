@@ -27,4 +27,17 @@ Random Public notes
 # Linux Specific notes 
 
 ## Recovery Disks 
-- [Rescatux & Super Grub2 Disk](https://www.supergrubdisk.org/)
+- [Rescatux & Super Grub2 Disk](https://www.supergrubdisk.org/)[^1]
+
+
+
+
+
+
+
+
+
+
+
+# References 
+[^1]:https://youtu.be/VX45nw2OFxo?si=h6iwdqnPIFoGd9HP&t=765
