@@ -22,3 +22,9 @@ Random Public notes
 
 ## Self-hosted Mail server
 - https://docker-mailserver.github.io/docker-mailserver/latest/
+
+
+# Linux Specific notes 
+
+## Recovery Disks 
+- [Rescatux & Super Grub2 Disk](https://www.supergrubdisk.org/)
