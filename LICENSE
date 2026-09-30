@@ -1,0 +1,109 @@
+MIT-AI Restricted Software License
+
+Copyright (c) [2026] [beobcode]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. Copyright Notice
+
+The above copyright notice and this licence notice shall be included in all
+copies or substantial portions of the Software.
+
+2. AI and Machine Learning Restrictions
+
+The Software, including its source code, object code, documentation, examples,
+tests, datasets, and other associated materials, must not be used, in whole or
+in part, for the purpose of:
+
+training, pre-training, fine-tuning, or otherwise developing an artificial
+intelligence, machine learning, generative AI, foundation model, large
+language model, multimodal model, or similar computational model;
+creating, expanding, validating, benchmarking, or maintaining datasets
+intended for training or improving such systems;
+creating embeddings, vector databases, retrieval datasets, or other derived
+representations for the purpose of training or improving such systems;
+evaluating or testing an AI model where the Software or its contents are
+incorporated into the model, training dataset, or other persistent model
+resource; or
+extracting, collecting, scraping, or otherwise systematically acquiring the
+Software or its associated materials for any of the purposes described above.
+
+This restriction applies regardless of whether the AI system is publicly
+available, privately operated, commercial, non-commercial, open-source,
+closed-source, local, hosted, or provided as a service.
+
+3. Autonomous AI Use
+
+Unless expressly authorised in writing by the copyright holder, the Software
+must not be used, accessed, operated, controlled, or invoked by an autonomous
+or semi-autonomous artificial intelligence agent for the purpose of performing
+tasks on behalf of a user.
+
+This includes, but is not limited to:
+
+AI agents executing or controlling the Software;
+autonomous AI systems interacting with the Software through an API;
+AI systems creating accounts, submitting requests, or performing actions
+through the Software;
+using the Software as a tool, service, or component of an autonomous AI
+agent; and
+connecting the Software to an AI system in a manner that allows the AI
+system to independently determine and perform actions using the Software.
+4. AI-Assisted Human Development
+
+The restrictions in Sections 2 and 3 do not prohibit an individual human
+developer from using an AI-assisted development tool to:
+
+understand the Software;
+debug the Software;
+explain source code;
+generate or suggest modifications;
+write documentation;
+generate tests; or
+otherwise assist the developer in personally developing or maintaining
+software.
+
+However, such use must not result in the Software or substantial portions of
+its source code being used as training data, fine-tuning data, or other
+persistent model-development data in violation of Section 2.
+
+5. Human Use
+
+Subject to the restrictions above, the Software may be used, copied, modified,
+merged, published, distributed, sublicensed, and/or sold without restriction.
+
+Nothing in this licence is intended to restrict ordinary use of the Software
+by human users.
+
+6. Derivative Works
+
+A modified or derivative version of the Software remains subject to the
+restrictions of Sections 2 and 3 where that version contains or is derived
+from substantial portions of the Software.
+
+A derivative work may not remove, disable, or circumvent the restrictions
+contained in this licence for the purpose of permitting a use that this
+licence prohibits.
+
+7. Termination
+
+Any rights granted under this licence automatically terminate upon material
+breach of the terms of this licence.
+
+Rights may be reinstated at the sole discretion of the copyright holder upon
+written confirmation that the breach has been remedied.
+
+8. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
