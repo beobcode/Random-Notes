@@ -1,4 +1,13 @@
 # Random-Notes
+## License
+
+This project is licensed under the MIT-AI Restricted License.
+See [LICENSE](LICENSE) for the full terms.
+
+AI/ML training and autonomous AI-agent use are not permitted
+without explicit permission from the copyright holder.
+
+
 Random Public notes
 
 
